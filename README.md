@@ -20,6 +20,8 @@ i made an app launcher in same style.
 ### app-launcher
 to launch it make script executable
 and bind it to your hyprland keybind.
+![2025-05-26-183856_hyprshot](https://github.com/user-attachments/assets/cd50ae70-8528-4dee-b6c2-9266b5838559)
+
 
 ### sddm
 you may need to install OstrichSans in .local/share/fonts to be able to use it
