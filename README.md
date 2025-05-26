@@ -21,3 +21,6 @@ i made an app launcher in same style.
 to launch it make script executable
 and bind it to your hyprland keybind.
 
+### sddm
+you may need to install OstrichSans in .local/share/fonts to be able to use it
+
