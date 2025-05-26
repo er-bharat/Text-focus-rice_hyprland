@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=hyprlock-sddm
+Description=Theme to match hyprland
+Author=Bharat
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=maldives.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=bharatupsccse@gmail.com
+Theme-Id=hyprlock
+Theme-API=2.0
